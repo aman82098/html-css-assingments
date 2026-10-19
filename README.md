@@ -1,2 +1,7 @@
 # html-css-assingments
-My beginner HTML and CS assingments
+This repository contains My beginner HTML and CS assingments
+# Topics
+- HTML basics
+- CSS basics
+- Terminal commands
+- Git and GitHub practice
