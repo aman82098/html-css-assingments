@@ -1,0 +1,3 @@
+Design Choices
+
+I used a clean and simple design for my multi-page website. I chose a light grey background and dark blue headings and navigation bar to make the website look professional. I used Arial font for readability and consistent CSS styling across all pages. Rounded corners, proper spacing, and hover effects improve the user experience. The same external CSS file is linked to all HTML pages to maintain a consistent design.
