@@ -35,12 +35,34 @@ footer {
     padding: 15px;
     margin-top: 20px;
 }
+/* 1. Element Selector */
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 18px;
+}
+/* 2. Class Selector */
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+/* 3. ID Selector */
+#main-heading {
+    color: red;
+    text-align: center;
+}
+/* 4. Universal Selector */
+* {
+    box-sizing: border-box;
+}
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1 id="main-heading">Welcome to My Website</h1>
 
         <nav>
             <a href="index.html">Home</a> |
@@ -52,7 +74,7 @@ footer {
 
     <main>
         <h2>Home Page</h2>
-        <p>Hello! Welcome to my website. I am learning HTML and web development.</p>
+        <p>class="highlight">I am learning CSS selectors.</p>
     </main>
 
     <footer>
