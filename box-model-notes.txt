@@ -1,0 +1,8 @@
+CSS Box Model Explanation
+
+1. Content: The text and button inside the profile card.
+2. Padding: The 25px space between the content and the border.
+3. Border: The 4px solid blue boundary around the card.
+4. Margin: The 30px space outside the card.
+
+The box model helps control spacing and layout in a webpage.
